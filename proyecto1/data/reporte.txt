@@ -1,0 +1,6 @@
+108,juan,calpa,310,jcalpa,4
+123,andres,calpa,311,andresc,0
+1080043143,juan,calpa,4,juancalpa,3103980897
+1736498691,andres,calpa,9,andresc,3112744356
+27387583,harold,calpa,4,haroldc,3227412289
+2846356478,cristiano,ronaldo,3103980897,cristiano77,7

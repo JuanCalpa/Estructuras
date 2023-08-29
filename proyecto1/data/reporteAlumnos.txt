@@ -1,0 +1,5 @@
+===========Reporte de estudiantes del semestre 4======
+====cedula/nombre/apellido/celular/correo/semestre====
+======================================================
+1080043143|juan|calpa|3103980897|juancalpa|4
+27387583|harold|calpa|3227412289|haroldc|4
